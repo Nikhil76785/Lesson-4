@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Images in HTML</title>
+    </head>
+    <body>
+        
+        <h1>These are cool</h1>
+    <video control>
+    <source src="https://videos.pexels.com/video-files/2616637/2616637-sd 640_360_30fps.mp4" type="video/mp4">
+    </video>
+    </body>
+</html>

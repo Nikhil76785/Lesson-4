@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Media</title>
+    </head>
+    <head>
+        <h1>This is Media in HTML</h1>
+        <img src="https://m.economictimes.com/thumb/msid-106775052,width-1600,height-900,resizemode-4,imgsize-69266/mclaren-750s-launched-in-india-at-rs-5-91-crore-what-makes-it-so-expensive.jpg" alt="Nikhil" width="500">
+        <video control>
+            <source src="https://youtu.be/qYkUXwbOtZg?si=XU_xquLRh1Ph_Jvz" type="video/mp4">
+        </video>
+    </head>
+</html>
